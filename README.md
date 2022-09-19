@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Aakash! 👋</h1>
+<h1 align="center">Hey there, I'm Tushar! 👋</h1>
 
 - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning React.
@@ -11,16 +11,16 @@
 ## Connect with me:
 
 <p>
-  <a href="https://dwivedyaakash.github.io">
+  <a href="https://TusharArya.github.io">
     <img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=logoColor=white" />
   </a>
-  <a href="mailto:aakashdwd07@gmail.com">
+  <a href="mailto:aryatushar748@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/dwivedyaakash">
+  <a href="https://linkedin.com/in/tushar-arya-868b09190">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/dwivedyaakash">
+  <a href="https://twitter.com/TusharArya77?s=08">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
@@ -40,8 +40,8 @@
 <p>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<!--   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
 </p>
 
 ## Development Tools:
