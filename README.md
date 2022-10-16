@@ -46,6 +46,17 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
+## Coding profiles:
+
+<p>
+  <a href="https://www.hackerrank.com/aryatushar748?hr_r=1">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/TusharArya">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+</p>
+
 ## Development Tools:
 
 <p>
