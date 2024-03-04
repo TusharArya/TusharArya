@@ -1,11 +1,11 @@
 #  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Tushar Arya](https://bit.ly/3gGMsHs)✨!!
 
-• I’m currently pursuing Bachelors Of Technology in Computer Science & Information Technology <br />
-• Aspiring SDE and Android Developer.
+• I’m Bachelors Of Technology in Computer Science & Information Technology Graduate <br />
+• Aspiring Software Developer.
 
-- 🔭 I’m currently working on Andoid Development.
-- 🌱 I’m currently learning Kotlin.
-- 👯 I’m looking to collaborate on Web and Android Development Projects.
+- 🔭 I’m currently working on Web Development.
+- 🌱 I’m currently learning Backend and Frontend Frameworks.
+- 👯 I’m looking to collaborate on Web and Software Development Projects.
 - 🤔 I’m looking for help with Open-Source Projects.
 - 💬 Ask me about programming and tech related stuff.
 - 😄 Pronouns: He/His/Him
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white" />
 </p>
 
 ## Frameworks and Libraries:
@@ -45,6 +45,17 @@
 <p>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-38B2AC?style=for-the-badge&logo=django&logoColor=white" />
+</p>
+
+## Core:
+
+<p>
+  <img src="https://img.shields.io/badge/DSA-563D7C?style=for-the-badge&logo=DSA&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOPS-38B2AC?style=for-the-badge&logo=OOPS&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBMS-38B2AC?style=for-the-badge&logo=DBMS&logoColor=white" />
+  <img src="https://img.shields.io/badge/CN-38B2AC?style=for-the-badge&logo=CN&logoColor=white" />
+  
 </p>
 
 ## Coding profiles:
@@ -58,7 +69,7 @@
   </a>
 </p>
 
-## Development Tools:
+## Dev Tools:
 
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -66,6 +77,22 @@
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-black?&style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-100000?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-100000?style=for-the-badge&logo=Postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-100000?style=for-the-badge&logo=Jira&logoColor=white" />
+  
+</p>
+
+## Others :
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/XML-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-black?&style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/YAML-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-100000?style=for-the-badge&logo=Postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cron-100000?style=for-the-badge&logo=Jira&logoColor=white" />
 </p>
 
 <br />
