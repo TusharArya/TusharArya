@@ -71,27 +71,27 @@
 ## Dev Tools:
 
 <p>
-  <img src="https://img.shields.io/badge/VS%20Code-100000.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-100000?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-100000.svg?&style=for-the-badge&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea" />
+  <img src="https://img.shields.io/badge/Android_Studio-100000?style=for-the-badge&logo=android-studio" />
   <img src="https://img.shields.io/badge/-Git-100000?&style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-100000?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-100000?style=for-the-badge&logo=Postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-100000?style=for-the-badge&logo=Jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitLab-100000?style=for-the-badge&logo=gitlab" />
+  <img src="https://img.shields.io/badge/Postman-100000?style=for-the-badge&logo=Postman" />
+  <img src="https://img.shields.io/badge/Jira-100000?style=for-the-badge&logo=Jira" />
   
 </p>
 
 ## Others :
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-000000.svg?style=for-the-badge&logo=Linux&logoColor=grey" />
-  <img src="https://img.shields.io/badge/XML-100000?style=for-the-badge&logo=XML&logoColor=grey" />
-  <img src="https://img.shields.io/badge/JSON-100000?&style=for-the-badge&logo=JSON" />
-  <img src="https://img.shields.io/badge/YAML-100000?style=for-the-badge&logo=YAML&logoColor=grey" />
-  <img src="https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=Docker&logoColor=grey" />
-  <img src="https://img.shields.io/badge/Kafka-100000?style=for-the-badge&logo=Kafka&logoColor=grey" />
-  <img src="https://img.shields.io/badge/Cron-100000?style=for-the-badge&logo=Cron&logoColor=grey" />
+  <img src="https://img.shields.io/badge/Linux-000000.svg?style=for-the-badge&logo=Linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/XML-100000?style=for-the-badge&logo=XML&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-100000?&style=for-the-badge&logo=JSON&logoColor=white" />
+  <img src="https://img.shields.io/badge/YAML-100000?style=for-the-badge&logo=YAML&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=Docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-100000?style=for-the-badge&logo=Kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cron-100000?style=for-the-badge&logo=Cron&logoColor=white" />
 </p>
 
 <br />
