@@ -15,7 +15,7 @@
 
 <p>
   <a href="https://TusharArya.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-DAF7A6?style=for-the-badge&logo=logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-8B4091?style=for-the-badge&logo=logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/tushar-arya-868b09190">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -43,9 +43,9 @@
 ## Frameworks and Libraries:
 
 <p>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=black" />
-  <img src="https://img.shields.io/badge/Django-62D94A?style=for-the-badge&logo=django&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-62D94A?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
 ## Core:
@@ -86,13 +86,13 @@
 ## Others :
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-000000.svg?style=for-the-badge&logo=Linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/XML-100000?style=for-the-badge&logo=XML&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-100000?&style=for-the-badge&logo=JSON&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-100000?style=for-the-badge&logo=Kafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/YAML-100000?style=for-the-badge&logo=YAML&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cron-100000?style=for-the-badge&logo=Cron&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=Docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000.svg?style=for-the-badge&logo=Linux&logoColor=grey" />
+  <img src="https://img.shields.io/badge/XML-100000?style=for-the-badge&logo=XML&logoColor=grey" />
+  <img src="https://img.shields.io/badge/JSON-100000?&style=for-the-badge&logo=JSON&logoColor=grey" />
+  <img src="https://img.shields.io/badge/Kafka-100000?style=for-the-badge&logo=Kafka&logoColor=grey" />
+  <img src="https://img.shields.io/badge/YAML-100000?style=for-the-badge&logo=YAML&logoColor=grey" />
+  <img src="https://img.shields.io/badge/Cron-100000?style=for-the-badge&logo=Cron&logoColor=grey" />
+  <img src="https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=Docker&logoColor=grey" />
 </p>
 
 <br />
