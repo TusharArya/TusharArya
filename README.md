@@ -51,7 +51,7 @@
 ## Core:
 
 <p>
-  <img src="https://img.shields.io/badge/DSA-AFAFAF?style=for-the-badge&logo=DSA&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-E5E5E5?style=for-the-badge&logo=DSA&logoColor=white" />
   <img src="https://img.shields.io/badge/OOPS-999999?style=for-the-badge&logo=OOPS&logoColor=white" />
   <img src="https://img.shields.io/badge/DBMS-717171?style=for-the-badge&logo=DBMS&logoColor=white" />
   <img src="https://img.shields.io/badge/Computer Networks-575757?style=for-the-badge&logo=ComputerNetworks&logoColor=white" />
@@ -74,6 +74,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-100000.svg?&style=for-the-badge&logo=visual-studio-code" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea" />
   <img src="https://img.shields.io/badge/Android_Studio-100000?style=for-the-badge&logo=android-studio" />
+  <br>
   <img src="https://img.shields.io/badge/-Git-100000?&style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/GitLab-100000?style=for-the-badge&logo=gitlab" />
