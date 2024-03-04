@@ -51,10 +51,10 @@
 ## Core:
 
 <p>
-  <img src="https://img.shields.io/badge/DSA-7E8F7B?style=for-the-badge&logo=DSA&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOPS-7E8F7B?style=for-the-badge&logo=OOPS&logoColor=white" />
-  <img src="https://img.shields.io/badge/DBMS-7E8F7B?style=for-the-badge&logo=DBMS&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer Networks-7E8F7B?style=for-the-badge&logo=ComputerNetworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-AFAFAF?style=for-the-badge&logo=DSA&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOPS-999999?style=for-the-badge&logo=OOPS&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBMS-717171?style=for-the-badge&logo=DBMS&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer Networks-575757?style=for-the-badge&logo=ComputerNetworks&logoColor=white" />
 </p>
 
 ## Coding profiles:
@@ -88,10 +88,10 @@
   <img src="https://img.shields.io/badge/Linux-000000.svg?style=for-the-badge&logo=Linux&logoColor=white" />
   <img src="https://img.shields.io/badge/XML-100000?style=for-the-badge&logo=XML&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON-100000?&style=for-the-badge&logo=JSON&logoColor=white" />
-  <img src="https://img.shields.io/badge/YAML-100000?style=for-the-badge&logo=YAML&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=Docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kafka-100000?style=for-the-badge&logo=Kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/YAML-100000?style=for-the-badge&logo=YAML&logoColor=white" />
   <img src="https://img.shields.io/badge/Cron-100000?style=for-the-badge&logo=Cron&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=Docker&logoColor=white" />
 </p>
 
 <br />
