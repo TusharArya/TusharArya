@@ -85,13 +85,13 @@
 ## Others :
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-000000.svg?style=for-the-badge&logo=Linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/XML-3DDC84?style=for-the-badge&logo=XML&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-black?&style=for-the-badge&logo=JSON" />
-  <img src="https://img.shields.io/badge/YAML-100000?style=for-the-badge&logo=YAML&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=Docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-100000?style=for-the-badge&logo=Kafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cron-100000?style=for-the-badge&logo=Cron&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000.svg?style=for-the-badge&logo=Linux&logoColor=grey" />
+  <img src="https://img.shields.io/badge/XML-100000?style=for-the-badge&logo=XML&logoColor=grey" />
+  <img src="https://img.shields.io/badge/JSON-100000?&style=for-the-badge&logo=JSON" />
+  <img src="https://img.shields.io/badge/YAML-100000?style=for-the-badge&logo=YAML&logoColor=grey" />
+  <img src="https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=Docker&logoColor=grey" />
+  <img src="https://img.shields.io/badge/Kafka-100000?style=for-the-badge&logo=Kafka&logoColor=grey" />
+  <img src="https://img.shields.io/badge/Cron-100000?style=for-the-badge&logo=Cron&logoColor=grey" />
 </p>
 
 <br />
