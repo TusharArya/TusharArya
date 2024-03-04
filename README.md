@@ -15,13 +15,13 @@
 
 <p>
   <a href="https://TusharArya.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=logoColor=white" />
-  </a>
-  <a href="mailto:aryatushar748@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-DAF7A6?style=for-the-badge&logo=logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/tushar-arya-868b09190">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aryatushar748@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF5733?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://twitter.com/TusharArya77?s=08">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -31,7 +31,7 @@
 ## Languages and Tools:
 
 <p>
-  <img src="https://img.shields.io/badge/Java-FF4900?style=for-the-badge&logo=java8&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-C70039?style=for-the-badge&logo=java8&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -43,18 +43,18 @@
 ## Frameworks and Libraries:
 
 <p>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-31DC81?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=black" />
+  <img src="https://img.shields.io/badge/Django-62D94A?style=for-the-badge&logo=django&logoColor=black" />
 </p>
 
 ## Core:
 
 <p>
-  <img src="https://img.shields.io/badge/DSA-563D7C?style=for-the-badge&logo=DSA&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOPS-3122AC?style=for-the-badge&logo=OOPS&logoColor=white" />
-  <img src="https://img.shields.io/badge/DBMS-58B2DC?style=for-the-badge&logo=DBMS&logoColor=white" />
-  <img src="https://img.shields.io/badge/ComputerNetworks-38B2AC?style=for-the-badge&logo=ComputerNetworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-7E8F7B?style=for-the-badge&logo=DSA&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOPS-7E8F7B?style=for-the-badge&logo=OOPS&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBMS-7E8F7B?style=for-the-badge&logo=DBMS&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer Networks-7E8F7B?style=for-the-badge&logo=ComputerNetworks&logoColor=white" />
 </p>
 
 ## Coding profiles:
@@ -71,10 +71,10 @@
 ## Dev Tools:
 
 <p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-100000.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-black?&style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Android_Studio-100000?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-100000?&style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-100000?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-100000?style=for-the-badge&logo=Postman&logoColor=white" />
