@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white" />
 </p>
 
@@ -86,13 +86,13 @@
 ## Others :
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-000000.svg?style=for-the-badge&logo=Linux&logoColor=grey" />
-  <img src="https://img.shields.io/badge/XML-100000?style=for-the-badge&logo=XML&logoColor=grey" />
-  <img src="https://img.shields.io/badge/JSON-100000?&style=for-the-badge&logo=JSON&logoColor=grey" />
-  <img src="https://img.shields.io/badge/Kafka-100000?style=for-the-badge&logo=Kafka&logoColor=grey" />
-  <img src="https://img.shields.io/badge/YAML-100000?style=for-the-badge&logo=YAML&logoColor=grey" />
-  <img src="https://img.shields.io/badge/Cron-100000?style=for-the-badge&logo=Cron&logoColor=grey" />
-  <img src="https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=Docker&logoColor=grey" />
+  <img src="https://img.shields.io/badge/Linux-000000.svg?style=for-the-badge&logo=Linux&logoColor=lightgrey" />
+  <img src="https://img.shields.io/badge/XML-100000?style=for-the-badge&logo=XML&logoColor=lightgrey" />
+  <img src="https://img.shields.io/badge/JSON-100000?&style=for-the-badge&logo=JSON&logoColor=lightgrey" />
+  <img src="https://img.shields.io/badge/Kafka-100000?style=for-the-badge&logo=Kafka&logoColor=lightgrey" />
+  <img src="https://img.shields.io/badge/YAML-100000?style=for-the-badge&logo=YAML&logoColor=lightgrey" />
+  <img src="https://img.shields.io/badge/Cron-100000?style=for-the-badge&logo=Cron&logoColor=lightgrey" />
+  <img src="https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=Docker&logoColor=lightgrey" />
 </p>
 
 <br />
