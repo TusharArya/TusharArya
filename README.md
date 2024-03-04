@@ -51,10 +51,10 @@
 ## Core:
 
 <p>
-  <img src="https://img.shields.io/badge/DSA-E5E5E5?style=for-the-badge&logo=DSA&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOPS-999999?style=for-the-badge&logo=OOPS&logoColor=white" />
-  <img src="https://img.shields.io/badge/DBMS-717171?style=for-the-badge&logo=DBMS&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer Networks-575757?style=for-the-badge&logo=ComputerNetworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-B1B1B1?style=for-the-badge&logo=DSA&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOPS-808080?style=for-the-badge&logo=OOPS&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBMS-5B5B5B?style=for-the-badge&logo=DBMS&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer Networks-353535?style=for-the-badge&logo=ComputerNetworks&logoColor=white" />
 </p>
 
 ## Coding profiles:
